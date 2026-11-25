@@ -1,21 +1,24 @@
 # Arul Immanuel T — Business Analytics Portfolio
 
-A responsive, static portfolio website built with HTML, CSS and vanilla JavaScript.
-
-## Website
-Once GitHub Pages finishes deployment, the site will be available at:
+## Live website
 https://arul-immanuel.github.io/arul-immanuel-portfolio/
 
+## Repository
+https://github.com/Arul-Immanuel/arul-immanuel-portfolio
+
+A responsive, static personal portfolio website built with HTML, CSS and vanilla JavaScript.
+
 ## Sections
-- Professional introduction and profile
-- Internship experience and education
+- Professional introduction
+- About and education
+- Salesforce Consultant internship experience
 - Business analysis, data, CRM and AI skills
-- Project showcase (marked in development until actual projects are added)
-- 14 certificates from EY and LinkedIn Learning
+- Project showcase (case studies are marked as in development until completed)
+- 14 certification titles from EY and LinkedIn Learning
 - Contact details and LinkedIn profile
 
-## Update
-Edit `index.html`, `styles.css` and `script.js` to update the website. Add completed project case studies to the projects section as they become available.
+## Update the site
+Edit `index.html`, `styles.css` and `script.js`, then push changes to the `main` branch. The GitHub Actions workflow deploys the site to GitHub Pages automatically.
 
-## Notes
-Project results and proficiency levels are not fabricated. Certificate names and internship responsibilities are based on the documents supplied by Arul.
+## Accuracy note
+The portfolio content is based on the résumé and certificates supplied by Arul. Project outcomes and skill proficiency ratings have not been invented. The live portfolio currently lists certificate titles; original PDF copies are in the separately downloaded portfolio folder, not hosted in this repository.
